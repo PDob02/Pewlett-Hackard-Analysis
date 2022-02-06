@@ -46,7 +46,7 @@ title
 -- INTO most_recent_title
 FROM retirement_titles
 WHERE to_date = '9999-01-01'
-ORDER BY _____, _____ DESC;
+ORDER BY emp_no, to_date DESC;
 
 -- SELECT DISTINCT ON (emp_no) emp_no,
 -- first_name,
@@ -62,4 +62,14 @@ ORDER BY _____, _____ DESC;
 -- FROM retirement_titles
 -- WHERE to_date = '9999-01-01'
 
+select * from unique_titles
+
+-- SELECT DISTINCT ON (emp_no) emp_no,
+-- first_name,
+-- last_name,
+-- title
+-- INTO unique_titles
+-- FROM retirement_titles
+-- WHERE to_date = '9999-01-01'
+-- ORDER BY emp_no, to_date DESC;
 select * from unique_titles
