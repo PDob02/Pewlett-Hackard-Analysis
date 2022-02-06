@@ -73,3 +73,30 @@ select * from unique_titles
 -- WHERE to_date = '9999-01-01'
 -- ORDER BY emp_no, to_date DESC;
 select * from unique_titles
+
+SELECT 
+    COUNT(titles)
+FROM 
+    table_name
+WHERE
+    condition; 
+
+SELECT COUNT(title), title
+FROM unique_titles;
+--into retiring_titles
+GROUP BY 
+ORDER BY
+
+SELECT COUNT(ti.title), (ut.title)
+FROM titles as ti
+LEFT JOIN unique_titles as ut
+ON ti.title = ut.title
+GROUP BY ut.title;
+
+select count(title), (title)
+INTO retiring_titles
+from unique_titles
+group by title 
+order by count(title) DESC; 
+
+select * from retiring_titles
