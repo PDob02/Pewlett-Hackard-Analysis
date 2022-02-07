@@ -15,5 +15,7 @@ In this analysis we were tasked with identifying retiring employees from a very 
 
 -The largest dearth of talent by role is our Senior Engineers & Senior Staff. This will be the largest replacement. Also, our third largest, Engineers, are in the same category as the Senior Engineers so that type of recruitment wil be essential moving forward. 
 
+![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Mentorship_Candidates.png)
+
 Summary: There are over 72,000 retiring employees. Of that count, we have identified 1500 employees that we can offer mentorship programs to. This is a very small ratio and we will need to recruit Engineers to replace our existing staff.
 Overview of the analysis:
