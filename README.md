@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 Module 7
 
-#** Overview of the analysis**: 
+### Overview of the analysis: ### 
 In this analysis we were tasked with identifying retiring employees from a very large company that could participate in a part-time mentorship program before fully retiring. We analyzed things like their employee number, birth date, retirement date and names. We ultiamtely identifies around 1550 candidates eligble for the mentorship program. Most are in senior positions in the company. 
 
 
