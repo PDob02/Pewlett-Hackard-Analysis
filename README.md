@@ -13,7 +13,7 @@ In this analysis we were tasked with identifying retiring employees from a very 
 
 ![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Retiring_by_type_count.png)
 
--The largest dearth of talent by role is our Senior Engineers & Senior Staff. This will be the largest replacement. Also, our third largest, Engineers, are in the same category as the Senior Engineers so that type of recruitment wil be essential moving forward. 
+- The largest dearth of talent by role is our Senior Engineers & Senior Staff. This will be the largest replacement. Also, our third largest, Engineers, are in the same category as the Senior Engineers so that type of recruitment wil be essential moving forward. 
 
 ![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Mentorship_Candidates.png)
 
