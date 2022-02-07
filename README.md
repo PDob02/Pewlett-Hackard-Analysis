@@ -10,6 +10,8 @@ In this analysis we were tasked with identifying retiring employees from a very 
 - We were able to identify 1550 candidates eligible for the mentorship program rollout
 - This will help the company withstand Senior employees leaving for retirement and facilitate the knowledge transfer that is necessary for ongoing operations
 - We were able to group employees by the 7 distinct tiles that they have within our orginization 
+Logo: ![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Retiring_by_type_count.png)
+
 -
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
