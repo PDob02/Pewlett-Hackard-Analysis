@@ -9,21 +9,11 @@ In this analysis we were tasked with identifying retiring employees from a very 
 
 - We were able to identify 1550 candidates eligible for the mentorship program rollout
 - This will help the company withstand Senior employees leaving for retirement and facilitate the knowledge transfer that is necessary for ongoing operations
-- We were able to group employees by the 7 distinct tiles that they have within our orginization 
-Logo: ![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Retiring_by_type_count.png)
+- We were able to group employees by the 7 distinct tiles that they have within our orginization: 
 
--
+![Alt](https://github.com/PDob02/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Queries/Retiring_by_type_count.png)
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+-The largest dearth of talent by role is our Senior Engineers & Senior Staff. This will be the largest replacement. Also, our third largest, Engineers, are in the same category as the Senior Engineers so that type of recruitment wil be essential moving forward. 
 
+Summary: There are over 72,000 retiring employees. Of that count, we have identified 1500 employees that we can offer mentorship programs to. This is a very small ratio and we will need to recruit Engineers to replace our existing staff.
 Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
-Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
